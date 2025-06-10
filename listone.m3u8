@@ -847,140 +847,140 @@ https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https%3A//linear313-it-dash1-pr
 
 
 # Canali aggiunti da SkyStreaming
-#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Arena (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 257" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 257 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 252" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 252 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 251" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 251 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Golf (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 253" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 253 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport MotoGP (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 1 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 2 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Uno (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="Sky Sport Max" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Max (SS)
 https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 259" tvg-name="Sky Sport 259" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 259 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky259/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-name="Sky Sport Calcio" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Calcio (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 254" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 254 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 261" tvg-name="Sky Sport 261" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 261 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 24" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 24 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="Sky Sport 260" tvg-name="Sky Sport 260" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 260 (SS)
 https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky260/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 255" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 255 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport F1 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Tennis (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Liechtenstein vs Scozia" tvg-name="Liechtenstein vs Scozia" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Liechtenstein vs Scozia (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Estonia vs Norvegia" tvg-name="Estonia vs Norvegia" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Estonia vs Norvegia (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport NBA (SS)
 https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Italia vs Moldavia" tvg-name="Italia vs Moldavia" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Italia vs Moldavia (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/italia/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 256" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 256 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport 258" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 258 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Diretta Gol vs Qualificazioni Mondiali" tvg-name="Diretta Gol vs Qualificazioni Mondiali" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Diretta Gol vs Qualificazioni Mondiali (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Arena (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport 257" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 257 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport 252" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 252 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport 251" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 251 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Golf (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport 253" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 253 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport F1 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport MotoGP (SS)
 https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 1 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 2 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Uno (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport Max" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Max (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport 259" tvg-name="Sky Sport 259" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 259 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky259/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-name="Sky Sport Calcio" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Calcio (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
+#EXTINF:-1 tvg-id="Sky Sport 256" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 256 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="Sky Sport 254" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 254 (SS)
 https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Golf (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Uno (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Tennis (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Diretta Gol vs Qualificazioni Mondiali" tvg-name="Diretta Gol vs Qualificazioni Mondiali" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Diretta Gol vs Qualificazioni Mondiali (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 251" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 251 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-name="Sky Sport Calcio" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Calcio (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="Sky Sport 261" tvg-name="Sky Sport 261" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 261 (SS)
 https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
+#EXTINF:-1 tvg-id="Sky Sport 257" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 257 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 #EXTINF:-1 tvg-id="Sky Sport 24" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 24 (SS)
 https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Italia vs Moldavia" tvg-name="Italia vs Moldavia" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Italia vs Moldavia (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/italia/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 2 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 253" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 253 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Estonia vs Norvegia" tvg-name="Estonia vs Norvegia" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Estonia vs Norvegia (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Liechtenstein vs Scozia" tvg-name="Liechtenstein vs Scozia" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Liechtenstein vs Scozia (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 1 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Arena (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 255" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 255 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 258" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 258 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 252" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 252 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 259" tvg-name="Sky Sport 259" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 259 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky259/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport Max" tvg-name="Sky Sport Max" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Max (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/skymax/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
 #EXTINF:-1 tvg-id="Sky Sport 260" tvg-name="Sky Sport 260" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 260 (SS)
 https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky260/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
-#EXTINF:-1 tvg-id="Sky Sport 255" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 255 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport NBA (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport F1 (SS)
 https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/formula/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
-#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Tennis (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Liechtenstein vs Scozia" tvg-name="Liechtenstein vs Scozia" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Liechtenstein vs Scozia (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Estonia vs Norvegia" tvg-name="Estonia vs Norvegia" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Estonia vs Norvegia (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Sky Sport NBA" tvg-name="Sky Sport NBA" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport NBA (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
-
-#EXTINF:-1 tvg-id="Italia vs Moldavia" tvg-name="Italia vs Moldavia" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Italia vs Moldavia (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/italia/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Sky Sport MotoGP" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport MotoGP (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/moto/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
 #EXTINF:-1 tvg-id="Sky Sport 256" tvg-name="Sky Sport 256" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 256 (SS)
 https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky256/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
-#EXTINF:-1 tvg-id="Sky Sport 258" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 258 (SS)
-https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+#EXTINF:-1 tvg-id="Sky Sport 254" tvg-name="Sky Sport 254" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 254 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky254/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Golf (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/golf/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Uno (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Tennis (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
 #EXTINF:-1 tvg-id="Diretta Gol vs Qualificazioni Mondiali" tvg-name="Diretta Gol vs Qualificazioni Mondiali" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Diretta Gol vs Qualificazioni Mondiali (SS)
 https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport 251" tvg-name="Sky Sport 251" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 251 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky251/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-name="Sky Sport Calcio" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Calcio (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport 261" tvg-name="Sky Sport 261" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 261 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky261/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport 257" tvg-name="Sky Sport 257" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 257 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky257/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport 24" tvg-name="Sky Sport 24" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 24 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky24/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Italia vs Moldavia" tvg-name="Italia vs Moldavia" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Italia vs Moldavia (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/italia/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 2 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/eurosport2/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport 253" tvg-name="Sky Sport 253" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 253 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky253/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Estonia vs Norvegia" tvg-name="Estonia vs Norvegia" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Estonia vs Norvegia (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/skyuno/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Liechtenstein vs Scozia" tvg-name="Liechtenstein vs Scozia" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Liechtenstein vs Scozia (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/calcio/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Eurosport 1 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/eurosport1/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport Arena (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/arena/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport 255" tvg-name="Sky Sport 255" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 255 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky255/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport 258" tvg-name="Sky Sport 258" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 258 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky258/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport 252" tvg-name="Sky Sport 252" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 252 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky252/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
+
+#EXTINF:-1 tvg-id="Sky Sport 259" tvg-name="Sky Sport 259" tvg-logo="https://skystreaming.stream/content/auto_site_logo.png" group-title="SkyStreaming", Sky Sport 259 (SS)
+https://msette999-test.hf.spacehttps%3A//hls.kangal.icu/hls/sky259/index.m3u8&h_user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/133.0.0.0%20Safari/537.36&h_referer=https%3A//skystreaming.stream/&h_origin=https%3A//skystreaming.stream
 
 
 # Canali aggiunti da ThisNotBusiness
@@ -1619,10 +1619,10 @@ https://xuione.sportstreaming.net/SportStreaming/SportStreaming/8.m3u8&h_user-ag
 https://hls.kangal.icu/hls/tennis/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
 #EXTINF:-1 group-title="SportZone" tvg-logo="https://sportzone.yoga//images/67039b55acd48.png" tvg-name="Basket",Sky Sport vs NBA (SZ)
 https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.hair%2F&h_origin=https%3A%2F%2Fsportzone.hair
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/msette999/test2/main/logos/England_vs_Senegal.png" group-title="Calcio", Nova Sports Premier League Greece
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", Nova Sports Premier League Greece
 https://msette999-test.hf.spacehttps://daddylive.dad/embed/stream-599.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/msette999/test2/main/logos/England_vs_Senegal.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", SuperSport Premier League
 https://msette999-test.hf.spacehttps://daddylive.dad/embed/stream-414.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Bergs Z. vs Blockx A." tvg-name="11:00 ATP - HERTOGENBOSCH : Bergs Z. vs Blockx A. - 10/06/25" tvg-logo="https://companiesmarketcap.com/img/company-logos/256/BRG-B.ST.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
@@ -1670,7 +1670,7 @@ https://msette999-test.hf.spacehttps://daddylive.dad/embed/stream-576.php&redire
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Collins D. vs Minnen G." tvg-name="14:00 WTA - HERTOGENBOSCH : Collins D. vs Minnen G. - 10/06/25" tvg-logo="https://raw.githubusercontent.com/msette999/test2/main/logos/Collins%20D._vs_Minnen%20G..png" group-title="Wta - Hertogenbosch", Tennis Stream 3
 https://msette999-test.hf.spacehttps://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Samsonova L. vs Branstine C." tvg-name="14:00 WTA - HERTOGENBOSCH : Samsonova L. vs Branstine C. - 10/06/25" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d8c32970ed4467c0bbd212c/1574632970832-JQOH10BBFWWDWM4243PX/Samsonova-Consulting-Combination-Mark-Gradient-Gold-Large-2000px-header.png?format=1500w" group-title="Wta - Hertogenbosch", Tennis Stream 4
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Samsonova L. vs Branstine C." tvg-name="14:00 WTA - HERTOGENBOSCH : Samsonova L. vs Branstine C. - 10/06/25" tvg-logo="https://images.justwatch.com/icon/300028985/s166/liudmila-samsonova.png" group-title="Wta - Hertogenbosch", Tennis Stream 4
 https://msette999-test.hf.spacehttps://daddylive.dad/embed/stream-576.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Van den Broek I. L. vs Ruse G." tvg-name="15:30 WTA - HERTOGENBOSCH : Van den Broek I. L. vs Ruse G. - 10/06/25" tvg-logo="https://raw.githubusercontent.com/msette999/test2/main/logos/Van%20den%20Broek%20I.%20L._vs_Ruse%20G..png" group-title="Wta - Hertogenbosch", Tennis Stream 4
@@ -1778,7 +1778,7 @@ https://msette999-test.hf.spacehttps://daddylive.dad/embed/stream-50.php&redirec
 #EXTINF:-1 tvg-id="Friendly Games Women - Czech Republic vs. Italy" tvg-name="17:30 Friendly Games Women : Czech Republic vs. Italy - 10/06/25" tvg-logo="https://www.iconarchive.com/download/i109116/wikipedia/flags/CZ-Czech-Republic-Flag.1024.png" group-title="Basket", CT Sport Czech HD
 https://msette999-test.hf.spacehttps://daddylive.dad/embed/stream-18.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="Toyrnoya Vaso Mpeskaki - Hellas vs Megali Vretania" tvg-name="18:00 Toyrnoya Vaso Mpeskaki : Hellas vs Megali Vretania - 10/06/25" tvg-logo="https://logodetimes.com/times/hellas-verona-football-club/hellas-verona-football-club-4096.png" group-title="Basket", ERT 2 Greece
+#EXTINF:-1 tvg-id="Toyrnoya Vaso Mpeskaki - Hellas vs Megali Vretania" tvg-name="18:00 Toyrnoya Vaso Mpeskaki : Hellas vs Megali Vretania - 10/06/25" tvg-logo="https://raw.githubusercontent.com/msette999/test2/main/logos/Hellas_vs_Megali%20Vretania.png" group-title="Basket", ERT 2 Greece
 https://msette999-test.hf.spacehttps://daddylive.dad/embed/stream-19.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="Liga Nationala - Cluj Napoca vs CSM Oradea" tvg-name="18:00 Liga Nationala : Cluj Napoca vs CSM Oradea - 10/06/25" tvg-logo="https://raw.githubusercontent.com/msette999/test2/main/logos/Cluj%20Napoca_vs_CSM%20Oradea.png" group-title="Basket", Digi Sport 3 Romania
@@ -1838,7 +1838,7 @@ https://msette999-test.hf.spacehttps://daddylive.dad/embed/stream-135.php&redire
 #EXTINF:-1 tvg-id="Serie A2 - Rimini vs Cantu" tvg-name="20:30 Serie A2 : Rimini vs Cantu - 10/06/25" tvg-logo="https://raw.githubusercontent.com/msette999/test2/main/logos/Rimini_vs_Cantu.png" group-title="Basket", Rai Sport 1 IT
 https://msette999-test.hf.spacehttps://daddylive.dad/embed/stream-882.php&redirect_stream=true
 
-#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G4): Monaco vs Asvel" tvg-name="21:00 French League: Playoffs - 1/2 Final (G4): Monaco vs Asvel - 10/06/25" tvg-logo="https://logodetimes.com/times/monaco/logo-monaco-4096.png" group-title="Basket", Sport Klub 5 Croatia
+#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G4): Monaco vs Asvel" tvg-name="21:00 French League: Playoffs - 1/2 Final (G4): Monaco vs Asvel - 10/06/25" tvg-logo="https://cdn.footystats.org/img/competitions/moldova-playoffs-1-2.png" group-title="Basket", Sport Klub 5 Croatia
 https://msette999-test.hf.spacehttps://daddylive.dad/embed/stream-29.php&redirect_stream=true
 
 #EXTINF:-1 tvg-id="ACB - Valencia vs Tenerife" tvg-name="21:15 ACB : Valencia vs Tenerife - 10/06/25" tvg-logo="https://logodetimes.com/times/valencia/logo-valencia-4096.png" group-title="Basket", Movistar Deportes Spain
